@@ -1,5 +1,9 @@
 # Android stuido crap
 **/.idea/workspace.xml **/.idea/tasks.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
 
 # Mac crap
 .DS_Store
