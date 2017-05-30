@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContactsTest.iml" filepath="$PROJECT_DIR$/ContactsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-recyclerview-contacts-example-master.iml" filepath="$PROJECT_DIR$/android-recyclerview-contacts-example-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
